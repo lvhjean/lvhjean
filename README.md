@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Lvhjean](https://github-stats-alpha.vercel.app/api?username=lvhjean)
+https://github-stats-alpha.vercel.app/api?username=lvhjean
 
 [![Lvhjean's github stats](https://github-readme-stats.vercel.app/api?username=lvhjean&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvhjean&layout=compact)
