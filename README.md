@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yewown's github stats](https://github-readme-stats.vercel.app/api?username=lvhjean&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yewown's github stats](https://github-readme-stats.vercel.app/api?username=lvhjean&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.vultr.com/?ref=8971202-8H"><img src="https://www.vultr.com/media/banners/banner_468x60.png" width="468" height="60"></a>
 
