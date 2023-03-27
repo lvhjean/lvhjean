@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![Lvhjean's github stats](https://github-readme-stats.vercel.app/api?username=lvhjean&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvhjean&hide=html&&line_height=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvhjean&layout=compact)
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lvhjean" alt="lvhjean" width="600" />
