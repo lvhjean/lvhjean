@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvhjean&layout=compact)
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lvhjean" alt="lvhjean" width="600" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lvhjean&locale=zh_Hans" alt="lvhjean" width="600" />
